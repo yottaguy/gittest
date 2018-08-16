@@ -2,6 +2,8 @@
 
 int main()
 {
+  int a;
+
   printf("Hello");
   printf("\n");
   printf("C");
