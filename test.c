@@ -5,7 +5,7 @@ int main()
   printf("Hello");
   printf("\n");
 
-  printf("CCCCC");
+  printf("CCCCC\n");
   
   return 0;
 }
